@@ -1,0 +1,25 @@
+= Spring Boot: 编写一个 Hello World 应用
+rain
+2019-01-14
+
+本文介绍如何使用 Spring Boot CLI 快速创建一个 Web 应用，编写一个非常简单的 “Hello World”，使用 Maven 构建并运行起来。
+
+== 介绍
+
+[%hardbreaks]
+内容简介： 一个简单的 Spring Boot Web 应用示例
+语言框架： Java、Spring Boot、Spring MVC
+难度级别： L1
+阅读时间： 10 分钟
+
+== 工具
+
+* Java SDK : 8.0+
+* Spring Boot CLI : 2.1.2
+* Maven : 3.6.0
+* STS : 4.0
+* Curl / HTTPPie
+
+== 教程
+
+网址： link:https://springdev.io/guides/spring/spring-boot-hello-world/[spring-boot-hello-world, role="external", window="_blank"]
