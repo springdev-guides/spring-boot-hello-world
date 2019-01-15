@@ -18,7 +18,7 @@ rain
 * Spring Boot CLI : 2.1.2
 * Maven : 3.6.0
 * STS : 4.0
-* Curl / HTTPPie
+* Curl / HTTPie
 
 == 教程
 
